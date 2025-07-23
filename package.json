@@ -1,0 +1,13 @@
+{
+  "name": "monggo_db",
+  "version": "1.0.0",
+  "description": "MongoDB adalah sebuah database NoSQL yang bersifat open-source dan document-oriented. Berbeda dari database relasional yang menggunakan tabel, MongoDB menyimpan data dalam format BSON (Binary JSON) yang fleksibel dan cocok digunakan untuk big data maupun aplikasi web real-time.",
+  "main": "contoh_crud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
